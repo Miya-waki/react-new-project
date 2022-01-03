@@ -1,3 +1,4 @@
-export default function amc(){
-  return <h1> fandpanfp</h1>;
-}
+const app = () => {
+  return "i am the arrow fumction!";
+};
+export default app;
