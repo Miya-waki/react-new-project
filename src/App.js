@@ -1,2 +1,3 @@
-const app = () =>"hello radhe";
-export default app;
+export default function amc(){
+  return <h1> fandpanfp</h1>;
+}
