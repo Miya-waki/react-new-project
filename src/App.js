@@ -1,4 +1,4 @@
 const app = () => {
-  return "i am the arrow fumction!";
+  return <h1>i am the arrow fumction!"</h1>;
 };
 export default app;
